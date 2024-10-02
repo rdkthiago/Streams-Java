@@ -1,18 +1,7 @@
-## Getting Started
+## Figuras Geométricas Utilizando STREAMs
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Este projeto Java tem como objetivo principal ilustrar a eficiência e expressividade das Streams na resolução de problemas práticos. Através da criação de uma hierarquia de classes para representar diferentes formas geométricas (círculo, quadrado, triângulo, etc.), são implementados métodos utilizando Streams para calcular áreas de forma concisa e elegante. Além disso, o projeto explora outras operações como filtragem e mapeamento de elementos.
 
-## Folder Structure
+## Geometric Figures Using STREAMs
 
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Streams in solving real-world problems. By creating a class hierarchy to represent various geometric shapes (circle, square, triangle, etc.), methods using Streams are implemented to calculate areas concisely and elegantly. Additionally, the project explores other operations such as filtering and mapping elements.
